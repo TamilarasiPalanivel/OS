@@ -14,4 +14,5 @@ This repository contains an implementation of the Banker's Algorithm in C. The B
 # Requirements
 
 C Compiler (e.g., GCC)
+
 Standard C library
