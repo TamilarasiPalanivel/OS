@@ -7,8 +7,11 @@ This repository contains an implementation of the Banker's Algorithm in C. The B
 # Features
 
  Resource allocation and request handling.
+ 
  Safe state checking to prevent deadlock.
+ 
  Support for multiple processes and resources.
+ 
  Implementation of both allocation and release of resources.
 
 # Requirements
